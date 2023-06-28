@@ -4,7 +4,7 @@
         <div class="row mt-4">
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/Yo_Antes_de_ti.jpeg" class="card-img-top img-fluid" alt="Portada Libro 3">
+                    <img src="https://i.postimg.cc/bJWZhkyL/Yo-Antes-de-ti.jpg" class="card-img-top img-fluid" alt="Portada Libro 3">
                     <div class="card-body">
                         <h5 class="card-title">Yo antes de ti</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Autor Jojo Moyes</h6>

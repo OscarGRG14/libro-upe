@@ -5,7 +5,7 @@
         <div class="row mt-4">
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/Harry_Potter_y_La_Piedra_Filosofal.jpeg" class="card-img-top img-fluid"
+                    <img src="https://i.postimg.cc/sxWvDx1z/Harry-Potter-y-La-Piedra-Filosofal.jpg" class="card-img-top img-fluid"
                         alt="Portada Libro 2">
                     <div class="card-body">
                         <h5 class="card-title">Harry Potter y la piedra filosofal</h5>

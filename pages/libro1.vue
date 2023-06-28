@@ -5,7 +5,7 @@
         <div class="row mt-4">
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/El_Principito.jpeg" class="card-img-top img-fluid" alt="Portada Libro 1">
+                    <img src="https://i.postimg.cc/0QbzFcsb/El-Principito.jpg" class="card-img-top img-fluid" alt="Portada Libro 1">
                     <div class="card-body">
                         <h5 class="card-title">El Principito</h5>
                         <h6 class="card-subtitle mb-2 text-muted">Autor Antoine De Saint-exupery</h6>
